@@ -43,3 +43,4 @@ bash
 coverage run manage.py test
 coverage report
 coverage html  # Generates HTML report
+![Screenshot 2025-01-22 132516](https://github.com/user-attachments/assets/e14b171f-0e85-4f9f-a331-6c6dacb1c07c)
